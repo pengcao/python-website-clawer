@@ -13,7 +13,7 @@ spider是业余时间，学习Python爬虫的例子。
 
 * [Python爬虫框架](#Python爬虫框架)
   * grab – 网络爬虫框架（基于pycurl/multicur）。
-  * scrapy – 网络爬虫框架（基于twisted），不支持Python3。
+  * scrapy – 网络爬虫框架。
   * pyspider – 一个强大的爬虫系统。
   * cola – 一个分布式爬虫框架。
   * portia – 基于Scrapy的可视化爬虫。
