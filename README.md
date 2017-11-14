@@ -1,6 +1,6 @@
-spider
+python-website-clawer
 ===========================
-spider是业余时间，学习Python爬虫的例子。
+python-website-clawer是业余时间，学习Python爬虫的例子。
 ****
 ## 介绍
 * [网络爬虫的基本工作流程](#网络爬虫的基本工作流程)
